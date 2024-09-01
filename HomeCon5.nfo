@@ -1,0 +1,24 @@
+;
+;	HomeCon 5 Invitation
+;
+;	(c) 2009-12-29 JAC!
+;	(r) 2010-01-02 JAC! NTSC fix
+;
+;	Created for and released with the Atari New Year's Disk 2010.
+;
+;	Created using WUDSN IDE and ATASM.
+;	WUDSN IDE - the free integrated Atari 8-bit development plugin for Eclipse
+;	Visit https://www.wudsn.com for details.
+;
+;	Thanks to Nils Feske for arranging the music.
+;	Thanks to FOX for the inflate routine.
+;	Thanks to Stephen Anderson for testing the NTSC fix on real hardware.
+;	Vote on Pouet:  https://www.pouet.net/prod.php?which=54268.
+;
+;	The original "Rainbow on Mars" was ported from the 1991 Amiga release "Joyride" from Phenomena in 1992.
+;	I love that one even today.
+;	Visit on Pouet: https://www.pouet.net/prod.php?which=1621.
+;
+	For some strange reason, I wanted to keep this one smaller than 16k.
+;	... Just in case you wonder about the certain lines in the code ;-) 
+;
